@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instructions:
+
+#1- npm install
+#2- fill the example.env file and change its name to .env
+#3- npm run start command
 
 ## Available Scripts
 
